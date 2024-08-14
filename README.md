@@ -1,6 +1,6 @@
 # Energy Consumption Prediction
 
-This repository contains a Streamlit application that predicts energy consumption based on various environmental and operational factors using a Logistic Regression model. The app is deployed on Streamlit Cloud and is built using Python, Streamlit, and Scikit-learn.
+This repository contains a Streamlit application that predicts energy consumption based on various environmental and operational factors using a Linear Regression model. The app is deployed on Streamlit Cloud and is built using Python, Streamlit, and Scikit-learn.
 
 ## Overview
 The Energy Consumption Prediction app is designed to forecast the energy consumption of a facility using logistic regression. The prediction is based on input features such as temperature, humidity, square footage, occupancy, renewable energy usage, and more.
